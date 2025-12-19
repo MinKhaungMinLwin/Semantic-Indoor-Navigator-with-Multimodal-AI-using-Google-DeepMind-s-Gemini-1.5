@@ -1,7 +1,0 @@
-{
-  "name": "Gemini Cortex: Robotics Simulator",
-  "description": "A futuristic interface for prototyping Gemini-powered robotics applications. Generate project ideas, simulate vision-to-action tasks, and visualize robotic reasoning chains.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
